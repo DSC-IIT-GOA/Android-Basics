@@ -3,7 +3,7 @@ Android Study Jams 2022
 
 ### Hello Friend!
 
-<img align="right" width="100" height="100" src = "[https://octodex.github.com/droidtocat/](https://github.com/DSC-IIT-GOA/Android-Basics/blob/main/Kotlin%20Basics/droidtocat.png)">
+<img align="right" width="1400" height="1400" src = "[https://octodex.github.com/droidtocat/](https://github.com/DSC-IIT-GOA/Android-Basics/blob/main/Kotlin%20Basics/droidtocat.png)">
 
 Here are the Android-Basics resources that you can refer as well as practice from.
 **Kotlin Resources:**
